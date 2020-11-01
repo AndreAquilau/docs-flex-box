@@ -86,5 +86,5 @@
 ~~~
 
 #### References
-* [Flex-Box Guia](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* __[Flex-Box Guia]__(https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 * [Flex-Box Help](https://flexbox.help/)
