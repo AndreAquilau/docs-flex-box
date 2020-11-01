@@ -15,7 +15,6 @@
 ~~~css
 .container {
     display: flex;
-    align
 }
 ~~~
 
