@@ -10,7 +10,8 @@
 
 #### Display Flex
 * O Display Flex é aplicado no container.
-* Default mode: column, align: flex-start, flex-wrap: nowrap.
+> Default mode: column, align: flex-start, flex-wrap: nowrap.
+--------------------------------------------------------------
 ~~~css
 .container {
     display: flex;
@@ -22,7 +23,8 @@
 * O Flex-Direction é aplicado no container.
 * Define a direção dos items se serão em colunas ou em linhas
 * recebi quatro valores
-> ~~column~~, ~~column-reverse~~, ~~row~~, ~~row-reverse~~.
+> __column__, __column-reverse__, __row__, __row-reverse__.
+--------------------------------------------------------------
 ~~~css
 .container {
     flex-direction: column | column-reverse | row row-reverse;
@@ -33,15 +35,18 @@
 * O Flex-wrap é aplicado no container.
 * Define se os box filhos irão quebrar a linha ou não.
 * recebi três valores
-> ~~nowrap~~, ~~wrap-reverse~~, ~~wrap~~.
+> __nowrap__, __wrap-reverse__, __wrap__.
+--------------------------------------------------------------
+~~~css
 .container {
   flex-wrap: nowrap | wrap | wrap-reverse;
 }
-
+~~~
 #### Justify-Content
 * O Justify-Content é aplicado no container.
 * A propriedade define o alinhamento no main-axis ou na horizontal no eixo X.
-> flex-start, flex-end, center, space-between, space-around, space-evenly, start, end, left, right;
+> __flex-start__, __flex-end__, __center__, __space-between__, __space-around__, __space-evenly__, __start__, __end__, __left__, __right__.
+---------------------------------------------------------------------------------------------------
 ~~~css
 .container {
   justify-content: flex-start | flex-end | center | space-between | space-around | space-evenly | start | end | left | right;
@@ -51,7 +56,8 @@
 #### Align-Items
 * O Align-Items é aplicado no container.
 * A propriedade define o alinhamento no cross-axis ou na vertical no eixo Y.
-> stretch | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end;
+> __stretch__ | __flex-start__ | __flex-end__ | __center__ | __baseline__ | __first baseline__ | __last baseline__ | ___start__ | __end__ | __self-start__ | __self-end__.
+------------------------------------------------------------------------------------------------------
 ~~~css
 .container {
   align-items: stretch = /*não pode ter altura.*/ | flex-start | flex-end | center | baseline | first baseline | last baseline | start | end | self-start | self-end;
