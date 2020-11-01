@@ -1,12 +1,12 @@
 ## Documentação de como Trabalhar com layout usando Flex-Box.
-* [Display Flex]()
-* [Flex-Direction]()
-* [Flex-Wrap]()
-* [Justify-Content]()
-* [Align-Items]()
-* [Flex-Grow]()
-* [Order]()
-* [References]()
+* [Display Flex](https://github.com/AndreAquilau/docs-flex-box#display-flex)
+* [Flex-Direction](https://github.com/AndreAquilau/docs-flex-box#flex-direction)
+* [Flex-Wrap](https://github.com/AndreAquilau/docs-flex-box#flex-wrap)
+* [Justify-Content](https://github.com/AndreAquilau/docs-flex-box#justify-content)
+* [Align-Items](https://github.com/AndreAquilau/docs-flex-box#align-items)
+* [Flex-Grow](https://github.com/AndreAquilau/docs-flex-box#flex-grow)
+* [Order](https://github.com/AndreAquilau/docs-flex-box#order)
+* [References](https://github.com/AndreAquilau/docs-flex-box#references)
 
 #### Display Flex
 * O Display Flex é aplicado no container.
@@ -80,5 +80,5 @@
 ~~~
 
 #### References
-[Flex-Box Guia](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
-[Flex-Box Help](https://flexbox.help/)
+* [Flex-Box Guia](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
+* [Flex-Box Help](https://flexbox.help/)
