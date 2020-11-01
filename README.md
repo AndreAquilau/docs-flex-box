@@ -10,7 +10,7 @@
 
 #### Display Flex
 * O Display Flex é aplicado no container.
-> Default mode: column, align: flex-start, flex-wrap: nowrap.
+> Default mode: __column__, __align: flex-start__, __flex-wrap: nowrap__.
 --------------------------------------------------------------
 ~~~css
 .container {
